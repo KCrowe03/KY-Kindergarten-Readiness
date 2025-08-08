@@ -120,6 +120,12 @@ Childcare support
 
 I used three public datasets, cleaned and combined them, then explored the data using SQL and Python. I made a few small functions to keep things organized and built simple charts to help others understand the data. This doesn’t prove cause and effect, but it helps show where counties may need more support.
 
+## Next steps
+
+I want to expand this project by adding a Kentucky map in Tableau with all 120 counties. I want to find more datasets that include FIPS codes so I can combine them more easily. 
+One idea is to filter the childcare subsidies data and see if there’s a clear pattern with poverty levels, number of subsidies, and graduation rates.
+I’m also interested in how Kentucky can better prepare children for kindergarten, and how universal childcare/Pre-K programs might connect to higher graduation rates. 
+
 
 
 
